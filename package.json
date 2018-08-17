@@ -1,0 +1,24 @@
+{
+  "name": "commandline",
+  "version": "1.0.0",
+  "description": "git bash, command prompt prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otitoju/commandline.git"
+  },
+  "author": "otitoju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otitoju/commandline/issues"
+  },
+  "homepage": "https://github.com/otitoju/commandline#readme",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "inquirer": "^6.1.0",
+    "mongoose": "^5.2.8"
+  }
+}
